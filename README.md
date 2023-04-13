@@ -42,7 +42,7 @@ Design Pattern: Assistant<Application>Directory
     
     
     
-Design Pattern: Task Specialized Assistants
+Design Pattern: Specialized Task Assistant
 
     these assistants can be used by any application as long as the application points to this.
     
